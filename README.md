@@ -1,6 +1,6 @@
 # Laravel + MySql + Blade Template Blog Project
 
-Hello, I developed a blog project using Laravel and relational database MySql Technologies.
+Merhabalar, laravel ve ilişkisel veritabanı olan MySql Teknolojilerini kullanarak bir blog projesi geliştirdim bu projeyi geliştirirken Laravelin asıl amacı olan ORM mimarisini sıklıkla kullandım ve temiz okunabilir/anlaşılabilir kod yazmaya özen gösterdim.
 
 ## Kurulum
 
